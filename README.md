@@ -1,1 +1,2 @@
-# Micro-bit-Ultrasonic
+# Micro-bit
+#Author：KUAN-WEI, CHEN
